@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\obj\Debug\ahorcado.Form1.resources
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\obj\Debug\ahorcado_definitivo.Properties.Resources.resources
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\obj\Debug\ahorcado_definitivo.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\obj\Debug\ahorcado_definitivo.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\bin\Debug\ahorcado_definitivo.exe.config
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\bin\Debug\ahorcado_definitivo.exe
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\bin\Debug\ahorcado_definitivo.pdb
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\obj\Debug\ahorcado_definitivo.exe
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\obj\Debug\ahorcado_definitivo.pdb
+C:\Users\crist\source\repos\ahorcado_definitivo\ahorcado_definitivo\obj\Debug\ahorcado_definitivo.csprojAssemblyReference.cache
